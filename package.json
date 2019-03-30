@@ -1,0 +1,8 @@
+{
+  "name": "esdocs-example",
+  "version": "1.0.0",
+  "description": "使用 esdocs 的示例项目",
+  "main": "src/index.js",
+  "author": "rxliuli",
+  "license": "MIT"
+}
