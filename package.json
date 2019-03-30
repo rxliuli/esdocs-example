@@ -4,5 +4,9 @@
   "description": "使用 esdocs 的示例项目",
   "main": "src/index.js",
   "author": "rxliuli",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "esdoc": "^1.1.0",
+    "esdoc-standard-plugin": "^1.0.0"
+  }
 }
